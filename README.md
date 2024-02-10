@@ -1,2 +1,3 @@
 # Python_Data_-Analysis-book
-my personal study about data analysis in Py
+## My study note about data analysis
+You can learn more details in 《利用Python进行数据分析》.
